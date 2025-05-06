@@ -8,7 +8,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
-url: http://ysj.zone
+url: http://ysj.baby
 root: /
 permalink: :year-:month-:day/:title.html
 permalink_defaults: 
