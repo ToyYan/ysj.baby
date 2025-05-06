@@ -31,7 +31,7 @@ jobs:
         npm install
         npm i hexo-cli
         npm run build
-        echo ysj.zone > public/CNAME
+        echo ysj.baby > public/CNAME
     - name: Deploy to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v2
